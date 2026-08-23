@@ -3,7 +3,7 @@
 
 # Analyzing Asos Sales
 
-**Code:** 
+**Code:** [asos_analysis.ipynb](https://github.com/patrickt789/Data-Analytics-Projects/blob/main/asos_analysis.ipynb)
 
 **Goals:** 
 Analyze brand sales and give recommendations on improving revenue.
