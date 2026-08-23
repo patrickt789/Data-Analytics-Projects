@@ -1,7 +1,7 @@
 # Data Analyst Projects
 
 
-# Analyzing Asos Sales
+## Analyzing Asos Sales
 
 **Code:** [asos_analysis.ipynb](https://github.com/patrickt789/Data-Analytics-Projects/blob/main/asos_analysis.ipynb)
 
