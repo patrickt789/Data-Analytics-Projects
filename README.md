@@ -31,8 +31,8 @@ best performers. Don't stock up on brands with low out-of-stock rates and high s
 ## Analysing Order Database with SQL 
 
 **Code:**<br />
-Data cleaning:<br />
-Data analysis:
+Data cleaning: [order analysis.ipynb]()
+Data analysis: [orders.sql]() 
 
 **Goals:**<br />
 Analyse orders database and answer questions on sales and revenue.
