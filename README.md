@@ -25,3 +25,37 @@ The best performers are the brands with a high average sale price and high out-o
 brands with high out-of-stock rates and low average prices may be necessary everyday articles. 
 Recommendation is to stock up on products from brands with high out-of-stock rates as well as the
 best performers. Don't stock up on brands with low out-of-stock rates and high sale prices.
+
+
+
+## Analysing Order Database with SQL 
+
+**Code:**
+Data cleaning:
+Data analysis:
+
+**Goals:**
+Analyse orders database and answer questions on sales and revenue.
+
+**Description:**
+Using Python to clean data and SQL to answer sales and revenue questions.
+The following questions are answered:
+_Highest revenue generating products_.
+_Highest revenue generating products by region_.
+_Monthly growth between 2022-2023_.
+_Highest monthly sales per category_.
+_Highest sales growthin percent by subcategory_.
+
+**Skills:**
+Data analysis, data cleaning.
+
+**Software:**
+Python, SQL.
+
+
+
+
+
+
+
+
