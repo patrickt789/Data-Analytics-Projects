@@ -31,6 +31,7 @@ best performers. Don't stock up on brands with low out-of-stock rates and high s
 ## Analysing Order Database with SQL 
 
 **Code:**
+
 Data cleaning:
 Data analysis:
 
